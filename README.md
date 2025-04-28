@@ -7,4 +7,5 @@ Before running the project, make sure you have the following installed:
 
    The project uses http-server to serve the files locally. Install it globally using npm:  npm install -g http-server
   Start the server: In the project directory or terminal , run the following command:  **http-server**
+[Click here to open Face and Emotion Detection](https://rishikagupta083.github.io/FaceEmotionDetection/index.html)
   
